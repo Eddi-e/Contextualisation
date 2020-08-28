@@ -15,5 +15,11 @@ also help mark tests and scan in work to a high degree of accuracy. One limitati
 way to write letters.
 Travel and navigation:
 Object recognition can help the travel industry as it is a key component in driverless cars. It allows the cars to check for dangers ahead and keep in the lines on 
-the road. Another benefit from object recognition software is that it may be useful as an aid for people who are visually impaired as it could warn someone through audio cues if there is an obstacle in their way. One limitation of this is that driverless cars would leave many taxi drivers unemployed. There are also risks to object recognition in travel and navigation as if there is a bug in the code it may be lethal.
+the road. Another benefit from object recognition software is that it may be useful as an aid for people who are visually impaired as it could warn someone through 
+audio cues if there is an obstacle in their way. One limitation of this is that driverless cars would leave many taxi drivers unemployed. There are also risks to 
+object recognition in travel and navigation as if there is a bug in the code it may be lethal.
 Medicine and healthcare:
+One benefit of object recognition is that it could help make medical diagnoses from mri scans which may be able to spot small signs of a developing problem before a
+nurse or doctor may be able to spot it. There are however limitations to the use of object recognition, as although the software may be able to predict the 
+diagnosis it would still need to be checked by a doctor to make sure it has not come to a false conclusion. A risk with using object recognition in healthcare is 
+that it may make a false diagnosis which could lead to the wrong treatment, potentially causing illness or death. 
